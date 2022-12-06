@@ -1,0 +1,23 @@
+version "5.0"
+#===================================================
+# ---- InnovMetric Software Inc.
+# ---- Module  :    PolyWorks|Inspector
+# ---- Version :    2019 IR0.1 (build 2275)
+# ---- Date    :    Thursday, May 9, 2019 - 15:15:10
+#---------------------------------------------------
+MACRO ECHO ( "----------------------------------------" )
+MACRO ECHO ( "Macro Starting" )
+MACRO ECHO ( "Creating Layer Poins" )
+MACRO ECHO ( "----------------------------------------" )
+LAYER CREATE ( )
+LAYER CREATE ( )
+LAYER CREATE ( )
+LAYER CREATE ( )
+LAYER CREATE ( )
+TREEVIEW OPTIONS DISPLAY LAYER_COLORS ( "On" )
+LAYER CREATE ( )
+LAYER PROPERTIES COLOR ( "layer 1", 255, 255, 255 )
+FILE SAVE_PROJECT ( , )
+MACRO ECHO ( "------------------------------------------" )
+MACRO ECHO ( "Macro Finished Creaing Layers" )
+MACRO ECHO ( "------------------------------------------" )

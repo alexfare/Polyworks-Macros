@@ -1,0 +1,8 @@
+version "5.0"
+#====================================================
+# ---- InnovMetric Software Inc.
+# ---- Module  :    PolyWorks|Inspector
+# ---- Version :    2019 IR0.1 (build 2275)
+# ---- Date    :    Thursday, May 16, 2019 - 15:08:52
+#----------------------------------------------------
+WINDOW VIEW ( "Command History", "On" )

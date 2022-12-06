@@ -1,0 +1,16 @@
+version "5.0"
+#===================================================
+# ---- InnovMetric Software Inc.
+# ---- Module  :    PolyWorks|Inspector
+# ---- Version :    2019 IR0.1 (build 2275)
+# ---- Date    :    Thursday, May 9, 2019 - 15:15:10
+#---------------------------------------------------
+MACRO ECHO ( "--------------------------" )
+Macro ECHO ( "Macro Starting..." )
+Macro ECHO ( "--------------------------" )
+FORMATTED_REPORT CREATE USING_LAYOUT ( , "C:\Users\alex.fare\Documents\AlexFare.ezl" )
+FORMATTED_REPORT PROPERTIES STANDARD ( "report 1", "Author", "Alex Fare" )
+FORMATTED_REPORT PROPERTIES CUSTOM ( "report 1", "E-mail", "alex@envisionengineering.us" )
+MACRO ECHO ( "---------------------------" )
+MACRO ECHO ( "Macro Finished Running.." )
+MACRO ECHO ( "---------------------------" )
