@@ -1,9 +1,16 @@
-version "5.0"
+version "6.0"
 #===================================================
 # ---- InnovMetric Software Inc.
 # ---- Module  :    PolyWorks|Inspector
 # ---- Version :    2019 IR0.1 (build 2275)
 # ---- Date    :    Thursday, May 9, 2019 - 15:15:10
+#---------------------------------------------------
+#===================================================
+# ---- Update  :    08/31/23
+# ---- Version :    2.0
+# - PW Version :    2023 IR3.1 (Build 3335)
+# ---- Date    :    Thursday, August 31, 2023 - 01:58:12
+# ---- Comment :    Updating Polyworks Version 6.0
 #---------------------------------------------------
 MACRO ECHO ( "--------------------------" )
 Macro ECHO ( "Macro Starting..." )
