@@ -1,4 +1,4 @@
-version "5.0"
+version "6.0"
 #===================================================
 # ---- InnovMetric Software Inc.
 # ---- Module  :    PolyWorks|Inspector
@@ -47,6 +47,13 @@ version "5.0"
 # ---- Date    :    Tuesday, December 06, 2022 - 07:19:45
 # ---- Comment :    Updated Layout Location.
 # ---- Comment :    Updated Properties
+#---------------------------------------------------
+#===================================================
+# ---- Update  :    08/31/23
+# ---- Version :    7.0
+# - PW Version :    2023 IR3.1 (Build 3335)
+# ---- Date    :    Thursday, August 31, 2023 - 01:58:12
+# ---- Comment :    Updating Polyworks Version 6.0
 #---------------------------------------------------
 
 #Declares
